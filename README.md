@@ -7,6 +7,8 @@ Welcome to the world of Flutter development for the Fines App! This guide will h
 2. [Setting Up Development Environment](#setting-up-development-environment)
 3. [Cloning the Fines App Repository](#cloning-the-fines-app-repository)
 4. [Restoring Pub Packages](#restoring-pub-packages)
+5. [Usage](#usage)
+6. [Contributing](#contributing)
 
 ## 1. Prerequisites
 Before you begin, ensure you have the following prerequisites installed on your system:
@@ -56,3 +58,26 @@ The Fines App uses external packages managed by `pub`, the package manager for D
    ```
 
 Flutter will read the `pubspec.yaml` file and download the required packages.
+
+Congratulations! You've successfully set up your Flutter development environment for the Fines App, cloned the repository, and restored the necessary package dependencies. You're now ready to dive into developing the Fines App. Remember to consult the app's specific documentation for any additional setup or guidelines. Happy coding! 🚀
+
+## 5. Usage
+To run the Fines App, follow these steps:
+
+1. Open a terminal and navigate to the project directory.
+2. Run the following command to start the app:
+   
+   ```sh
+   flutter run
+   ```
+
+## 6. Contributing
+We welcome contributions to the Fines App! To contribute, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature/fix: `git checkout -b feature-name`
+3. Make your changes and commit them: `git commit -m "Dev: Add new feature"`
+4. Push your changes to your forked repository: `git push origin feature-name`
+5. Submit a pull request to the `main` branch of our repository.
+
+We appreciate your contributions!
